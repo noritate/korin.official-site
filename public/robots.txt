@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://koimari-official.github.io/korin.official-site/sitemap.xml

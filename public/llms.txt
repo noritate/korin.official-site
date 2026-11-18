@@ -1,0 +1,48 @@
+# KŌRIN Jewelry（コーリン／光輪）
+
+KŌRIN Jewelry is a made-to-order jeweller centred on laboratory-grown diamonds (synthetic diamonds), with pearls and coloured gemstones also available. Operated by NORI&TATE Co., Ltd. Based in Tokyo and Osaka; visits anywhere in Japan are possible.
+
+KŌRIN Jewelryは、合成ダイヤモンド（ラボグロウンダイヤモンド）を中心に、真珠・カラーストーンも選べるフルオーダージュエリー専門店です。運営は株式会社NORI&TATE。活動拠点は東京・大阪で、全国への訪問相談も可能です。
+
+## ブランドについて
+- 読み方：KŌRIN（コーリン、コウリン、こうりん、こーりん、光輪）。表記ゆれ：KORIN Jewelry、コーリンジュエリー
+- コンセプト：「金庫に眠る、1000万円の輝きを日常に。」ハイジュエリーを特別な日だけのものにせず、旅先や日常にも着けられる「セカンドジュエリー」として提案します
+- 取り扱い：リング、ペンダント、ネックレス、ピアス、ブレスレット。地金はプラチナ、K18、K14（イエロー・ピンク・ホワイト）
+- 石：合成ダイヤモンド（10種のカット）／真珠（アコヤ、白蝶〔ホワイト・ゴールド〕、黒蝶、バロック）／カラーストーン（ブルーサファイア、ピンクサファイア、ルビー、エメラルド、タンザナイト）
+
+## 合成ダイヤモンドについて
+- 合成ダイヤモンド（ラボグロウンダイヤモンド）は研究所で育てられた炭素の結晶で、天然ダイヤモンドと同じ炭素でできています。硬度10、屈折率2.42
+- 鉱山で採掘しない点が天然との大きな違いです。目では見分けられず、判別には専門機関の鑑定機器が必要です
+- 当店のダイヤモンドはすべて合成ダイヤモンドです（天然ではありません）
+- 作り方は大きく2つ：高温高圧法（HPHT）と化学気相成長法（CVD）。どちらで育てても、天然の原石と同じ工程でカット・研磨されます
+
+## 注文の流れ
+1. 相談（公式LINE、Instagram・TikTokのDM、メール）
+2. デザイン画・お見積もり（無料相談）
+3. 設計図（CAD）で0.1mm単位まで調整
+4. 制作（完全受注生産）
+5. お届け（決済確認後、約4〜8週間）
+
+価格はデザインと石の大きさで変わるため、サイトには掲載していません。見積もりは個別にご案内します。
+
+## 保証（KŌRIN ライフタイム・ケア）
+- 初期不良：お届け後14日以内の製造上の欠陥は往復送料を含め無償で修理・交換
+- 基本ケア（超音波クリーニング・軽微な新品仕上げ・石留めの緩み点検）は技術料が永年無料（往復送料・海外の通関手数料はお客様負担）
+- リングサイズ直し：購入後1年以内は初回無償（往復送料はお客様負担）
+- 破損修理は実費のお見積もり
+
+## ページ
+- 日本語：https://koimari-official.github.io/korin.official-site/ja/
+- English: https://koimari-official.github.io/korin.official-site/en/
+- 繁體中文：https://koimari-official.github.io/korin.official-site/zh-TW/
+- 简体中文：https://koimari-official.github.io/korin.official-site/zh-CN/
+- 한국어：https://koimari-official.github.io/korin.official-site/ko/
+- アトリエ（仕様シミュレーター）：https://koimari-official.github.io/korin.official-site/ja/atelier/
+- 保証：https://koimari-official.github.io/korin.official-site/ja/care/
+- 特定商取引法に基づく表記：https://koimari-official.github.io/korin.official-site/ja/legal/
+
+## 連絡先
+- 公式LINE: https://lin.ee/VvPOVdyD
+- Instagram: https://www.instagram.com/korin_jewelry/
+- TikTok: https://www.tiktok.com/@korin.jewelry
+- メール: korin.jewelry@gmail.com
