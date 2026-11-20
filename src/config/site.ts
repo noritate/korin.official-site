@@ -28,7 +28,7 @@ export interface SiteConfig {
 export const SITE: SiteConfig = {
   name: "KŌRIN Jewelry",
   /** 本番の公開URL（canonical・sitemap・OGP に使う） */
-  url: "https://koimari-official.github.io/korin.official-site",
+  url: "https://noritate.github.io/korin.official-site",
   email: "korin.jewelry@gmail.com",
   line: {
     /** 友だち追加URL（オーナー確定 2026-11-14。QEQGMgv・VvPOVdyD は使わない） */
